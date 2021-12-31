@@ -53,6 +53,9 @@ With Unstoppable domains, domains are a one time payment. They have created a bl
 Here is an article showing the complexities behind owning a TLD, https://blog.ipfs.io/decentralizing-the-internet-s-root/.
 
 
+## Building dApps on Ethereum (for example) vs. TLD vs. SLD
+Ethereum is probably more expensive.
+
 
 
 
