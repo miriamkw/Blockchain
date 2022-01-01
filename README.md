@@ -61,3 +61,16 @@ Ethereum is probably more expensive.
 
 
 
+
+
+
+
+
+# Interesting Blockchains
+
+- [Metahero:](https://metahero.io/) Scan 3D figures into the metaverse (coin: HERO)
+- [Namebase:](https://namebase.io/) Buy top level domains for web3 (coin: HNS)
+- [Flux:](https://home.runonflux.io/) Service to run dapps (coin: FLUX)
+
+
+
