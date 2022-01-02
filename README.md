@@ -1,6 +1,12 @@
 # Blockchain
 A project to investigate and experimenting with making products based on blockchain technology.
 
+Goals:
+- Understanding the pros and cons to blockchain, and the most util applications
+- Understanding Web3, how it works and how to become a part of it
+- Understand how to deploy dapps and websites on web3, and the difference between deploying on the Ethereum chain etc.
+
+
 
 
 
